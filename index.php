@@ -19,6 +19,9 @@
             <div id="addModal" class="reveal-modal" data-reveal>
                 <h2>Neue Kontakte</h2>
                 <form id="addContact" action="#" method="post">
+                    
+
+
                     <div class="row">
                         <div class="large-6 columns">
                             <label>

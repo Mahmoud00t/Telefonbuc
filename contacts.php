@@ -11,6 +11,10 @@ $db->query("SELECT * FROM `addressbook_contacts`");
 $contacts = $db->resultset();
 ?>
 
+
+
+
+
 <div class="row">
     <div class="large-12 columns">
         <table>
